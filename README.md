@@ -210,8 +210,8 @@ Link to a specific part of the page:
 
 [Go To TOP](#TOP)
    
-    Markup : [text goes here](#section_name)
-              section_title<a name="section_name"></a>    
+    Markup : [Go To TOP](#TOP)
+              Markdown Cheatsheet<a name="TOP"></a>    
 
 Hotkey:
 
